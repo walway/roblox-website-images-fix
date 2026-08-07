@@ -131,7 +131,7 @@ if "%CURL_ERROR%"=="1" (
     if !errorLevel! equ 0 (
         powershell -Command "Write-Host ' Status: Connection successful. tr.rbxcdn.com answered via hosts file rule.' -ForegroundColor Green"
     ) else (
-        powershell -Command "Write-Host ' Status: Connection successful. tr.rbxcdn.com answered via native routing.' -ForegroundColor Cyan"
+        powershell -Command "Write-Host ' Status: Connection successful. tr.rbxcdn.com answered via native connection. No hosts file needed.' -ForegroundColor Cyan"
     )
 )
 
