@@ -1,6 +1,6 @@
 <p>
-  <a href="" rel="noopener">
- <img width=100px src="./resources/Roblox_Logo_2025.png" alt="Project logo" href="https://github.com/Walway/roblox-website-images-fix"></a>
+  <a href="" rel="noopener" href="https://github.com/walway/roblox-website-images-fix">
+ <img width=100px src="./resources/Roblox_Logo_2025.png" alt="Project logo"></a>
 </p>
 
 <h3>Roblox website images fix</h3>
