@@ -1,5 +1,5 @@
 <p>
-  <a href="" rel="noopener" href="https://github.com/walway/roblox-website-images-fix">
+  <a rel="noopener" href="/">
  <img width=100px src="./resources/Roblox_Logo_2025.png" alt="Project logo"></a>
 </p>
 
