@@ -1,9 +1,9 @@
 <p>
   <a href="" rel="noopener">
- <img width=100px src="./resources/Roblox_Logo_2025.png" alt="Project logo"></a>
+ <img width=100px src="./resources/Roblox_Logo_2025.png" alt="Project logo" href="https://github.com/Walway/roblox-website-images-fix"></a>
 </p>
 
-<h3 href="https://github.com/Walway/roblox-website-images-fix">Roblox website images fix</h3>
+<h3>Roblox website images fix</h3>
 
 ![GitHub Release](https://img.shields.io/github/v/release/walway/roblox-website-images-fix?style=for-the-badge)
 ![GitHub Issues](https://img.shields.io/github/issues/walway/roblox-website-images-fix?style=for-the-badge)
